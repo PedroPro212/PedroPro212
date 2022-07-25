@@ -5,6 +5,6 @@
 </div>
 
 <div style="display1; inline_block"><br>
-  <img align="center" alt="Pedro Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-  <img align="center" alt="Pedro Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img align="center" alt="Pedro Js" height="30" width="40" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img align="center" alt="Pedro Html" height="30" width="40" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </div>
