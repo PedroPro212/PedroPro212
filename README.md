@@ -14,6 +14,8 @@
   <img align="center" alt="GitBash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
+<hr size="20">
+
 <div class="icons_redes">
   <a href="https://www.instagram.com/pedro_code_212/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   <a href="mailto:desenvolvedordesistemas22@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
