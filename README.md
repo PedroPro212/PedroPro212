@@ -1,5 +1,5 @@
 <div>
-    <h1>Hi, my name is Pedro Henrique Oliveira.</h1>
+    <h1>Hi, my name is Pedro Oliveira.</h1>
     <p>Tenho 19 anos e atuo como Desenvolvodor de Sistemas, fiz curso técnico na instituição SENAI em Itajubá.</p><br>
     <p>Minhas principais linguagens são C# e PHP, e o MySql como Banco de Dados 🙂. Gosto de utilizar o GitHub para todos meus projetos, onde é importante para deixar registrado e salvo nosso processo, sem ter o perigo de perda de progresso 🧐</p>
 </div>
