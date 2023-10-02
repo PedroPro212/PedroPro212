@@ -1,7 +1,7 @@
 <div>
     <h1>Hi, my name is Pedro Oliveira.</h1>
-    <p>Tenho 19 anos e atuo como Desenvolvedor de Sistemas, formado na instituição SENAI em Itajubá.</p><br>
-    <p>Minhas principais linguagens são Javascript, C# e PHP. Como banco de dados gosto de utilizar o MySql 🙂. Gosto de utilizar o GitHub para todos meus projetos, onde é importante para deixar registrado e salvo nosso processo, sem ter o perigo de perda de progresso 🧐</p>
+    <p>Com 19 anos de idade, ocupo o cargo de Desenvolvedor de Sistemas, com formação obtida na instituição SENAI, localizada em Itajubá.</p><br>
+    <p>Minha competência principal abrange as seguintes linguagens de programação: JavaScript, C#, e PHP. No que tange à gestão de dados, minha preferência recai sobre o MySQL. Utilizo o GitHub de forma sistemática para a administração de todos os meus projetos, reconhecendo sua importância fundamental como repositório seguro para documentação e salvaguarda de nosso progresso, mitigando assim o risco de perda de dados. 🧐</p>
 </div>
 
 <div>
