@@ -1,4 +1,6 @@
 <div>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=wavingãcolor=ff91a4&height=120&section=header"/>
+    
     <h1>Pedro Oliveira.</h1>
     <p>Olá! Meu nome é Pedro, e aos 20 anos de idade sou Desenvolvedor de Softwares. Obtive minha formação técnica na respeitada instituição SENAI e estou cursando bacharel em Sistema de Informação na FEPI, localizada em Itajubá.</p><br>
     <p>Minha competência principal reside no desenvolvimento de software, com habilidades sólidas em diversas linguagens de programação, incluindo JavaScript, C# e PHP. Além disso, tenho experiência significativa na gestão de dados, especialmente com o MySQL.</p>
