@@ -5,7 +5,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=00b4fc&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Pedro;I'm+a+Software+Developer;I'm+20+years+old)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedropro212&bg_color=005bc5&color=001449&line=012677&point=1c1c1c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedropro212&bg_color=ffffff&color=001449&line=000000&point=0033ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=pedropro212&theme=dark)](https://git.io/streak-stats)
 
 
 <div>
