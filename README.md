@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=00b4fc&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Pedro;I'm+a+Software+Developer;I'm+20+years+old)](https://git.io/typing-svg)
 
 <div>
-  <p>Olá 👋, eu sou Pedro! Um apaixonado estudante de Sistema de Informação.</p>
+  <h3>Olá 👋, eu sou Pedro! Um apaixonado estudante de Sistema de Informação.</h3>
     <ul dir="auto">
         <li>🚀 Eu estou cursando Bacharelado em Sistema de Informação na instituição FEPI.</li>
         <li>🤖 Em busca da minha primeira oportunidade como Desenvolvedor Jr.</li>
