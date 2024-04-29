@@ -5,6 +5,21 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=00b4fc&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Pedro;I'm+a+Software+Developer;I'm+20+years+old)](https://git.io/typing-svg)
 
+<div>
+  <p>Olá 👋, eu sou Pedro! Um apaixonado estudante de Sistema de Informação.</p>
+    <ul dir="auto">
+        <li>🚀 Eu estou cursando Bacharelado em Sistema de Informação na instituição FEPI.</li>
+        <li>🤖 Em busca da minha primeira oportunidade como Desenvolvedor Jr.</li>
+    </ul>
+    <details open>
+        <summary>👨‍💻 Mais sobre mim</summary>
+        <ul dir="auto">
+            <li>💬 Tenho 20 anos e atualmente moro no Brasil. Tenho experiência com MySQL, Python, Django, PHP e Javascript. Também atuei como                     Assistente Financeiro, o que me ajudou a desenvolver habilidades importantes como comunicação, análise detalhadas, capacidade                     analítica e gestão de fluxos.</li>
+            <li>⚡ Gosto de me desafiar e aprender coisas novas! Acredito que quando saimos da zona de conforto o aprendizado se torna mais                         prazeroso.</li>
+        </ul>
+    </details>
+</div>
+
 
 <div>
   <a href="https://github.com/pedropro212">
