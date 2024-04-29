@@ -12,7 +12,7 @@
         <li>🚀 Eu estou cursando Bacharelado em Sistema de Informação na instituição FEPI.</li>
         <li>🤖 Em busca da minha primeira oportunidade como Desenvolvedor Jr.</li>
     </ul>
-    <details open>
+    <details close>
         <summary>👨‍💻 Mais sobre mim</summary>
         <ul dir="auto">
             <li>💬 Tenho 20 anos e atualmente moro no Brasil. Tenho experiência com MySQL, Python, Django, PHP e Javascript. Também atuei como                     Assistente Financeiro, o que me ajudou a desenvolver habilidades importantes como comunicação, análise detalhadas, capacidade                     analítica e gestão de fluxos.</li>
