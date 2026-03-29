@@ -9,7 +9,7 @@
   <h3>Olá 👋, eu sou Pedro! Um apaixonado estudante de Sistema de Informação.</h3>
     <hr>
     <ul dir="auto">
-        <li>🚀 Eu estou cursando Bacharelado em Sistema de Informação na instituição FEPI.</li>
+        <li>🚀 Eu estou cursando Bacharelado em Sistema de Informação.</li>
         <li>🤖 Em busca da minha primeira oportunidade como Desenvolvedor Jr.</li>
     </ul>
     <details close>
