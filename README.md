@@ -10,7 +10,6 @@
     <hr>
     <ul dir="auto">
         <li>🚀 Eu estou cursando Bacharelado em Sistema de Informação.</li>
-        <li>🤖 Em busca da minha primeira oportunidade como Desenvolvedor Jr.</li>
     </ul>
     <details close>
         <summary>👨‍💻 Mais sobre mim</summary>
