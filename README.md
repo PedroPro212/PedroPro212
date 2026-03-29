@@ -14,7 +14,7 @@
     <details close>
         <summary>👨‍💻 Mais sobre mim</summary>
         <ul dir="auto">
-            <li>💬 Tenho 20 anos e atualmente moro no Brasil. Tenho experiência com MySQL, Python, Django, PHP e Javascript. Também atuei como                     Assistente Financeiro, o que me ajudou a desenvolver habilidades importantes como comunicação, análise detalhadas, capacidade                     analítica e gestão de fluxos.</li>
+            <li>💬 Tenho 22 anos e atualmente moro no Brasil. Tenho experiência com MySQL, Python, Django, PHP e Javascript. Também atuei como                     Assistente Financeiro, o que me ajudou a desenvolver habilidades importantes como comunicação, análise detalhadas, capacidade                     analítica e gestão de fluxos.</li>
             <li>⚡ Gosto de me desafiar e aprender coisas novas! Acredito que quando saimos da zona de conforto o aprendizado se torna mais                         prazeroso.</li>
         </ul>
     </details>
